@@ -1,0 +1,9 @@
+body {
+  margin:10em;
+  padding: 0;
+  font-family: 'Chicle', cursive;
+  background-color: aqua;
+}
+li{
+ list-style: none;
+}
