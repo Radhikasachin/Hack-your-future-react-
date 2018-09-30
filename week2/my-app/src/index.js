@@ -33,7 +33,7 @@ class Todo extends React.Component {
       <h1 key={key}>{item.date}</h1>
     )
   :
-    <h1>No search results</h1>
+    <h1>No items...</h1>
   );
 
 }
